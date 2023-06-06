@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=CPU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CPU.SchDoc|FileName=Display.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CPU.SchDoc|FileName=Power (Bridge Rectifier).SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CPU.SchDoc|FileName=Soldering Tip (Opam).SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CPU.SchDoc|FileName=Transistor.SchDoc|SheetNumber=2
